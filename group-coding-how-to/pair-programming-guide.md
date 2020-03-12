@@ -27,4 +27,9 @@ You can also watch two Codecademy employees pair-program [here](https://www.yout
 
 If reading about pair-programming is more your jam, you can read more about it [in this PDF from Hunter College’s CS program](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/csci135/csci136tutorials/pair_programming_tutorial.pdf) and [in this Atlassian developer blog](https://blog.developer.atlassian.com/try-pair-programming/).
 
-Once you’ve reviewed all of this material, talk to your mentor! They’re great help with figuring out when in your course of study you should try a pair-programming project and can pair-program with you first one-on-one to get you accustomed to the process. You can also reach out to other people in the Codecademy community to pair up, particularly in the Premium Slack's #pair-programming channel. Have fun!
+## I'm Ready to Pair Program! How Do I Find a Pair-Programmer?
+As part of Premium, you have the opportunity throughout the experience to do pair-programming. In the syllabus, we'll prompt you at specific intervals, but you should feel free to pair-program as often as you like! 
+
+* [Find Your Pair-Programming Toolkit HERE](https://discuss.codecademy.com/t/your-pair-programming-toolkit/472093)
+
+Once you’ve reviewed all of this material, talk to your mentor! They’re great help with figuring out when in your course of study you should try a pair-programming project, and can even pair-program with you first one-on-one to get you accustomed to the process. You can always reach out to others in [the Codecademy Community pair-programming directory](https://airtable.com/invite/l?inviteId=invo8GdCkBOM1fZpa&inviteToken=1af01485d09aaa684a640d9452488362b5ca6bd9665ca097343fb4d1dd5ffe9b) to pair up, and if you have any questions, just ask in Premium Slack's #pair-programming channel. Have fun!
